@@ -1,2 +1,2 @@
 # portfolio-FrontEnd
-Front end para el portfolio YoProgramo4
+Frontend para el portfolio YoProgramo4
